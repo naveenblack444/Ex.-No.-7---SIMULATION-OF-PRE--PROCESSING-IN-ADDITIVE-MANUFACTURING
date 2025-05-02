@@ -1,7 +1,7 @@
 # Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
-## AIM:
-### To simulate the Pre Processing for 3D printing.
+### DATE: 02/05/2025
+## AIM:/
+### To imulate the Pre Processing for 3D printing.
 
 ## REQUIREMENTS:
 ### System - Windows 7 or higher, 1 GB RAM.
